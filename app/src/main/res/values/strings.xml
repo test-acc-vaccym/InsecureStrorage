@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InsecureStrorage</string>
+    <string name="enter_your_data">Important Data</string>
+    <string name="store">Store</string>
+    <string name="insecure">In secure</string>
+    <string name="secure">Secure</string>
+    <string name="enter_here">Enter here !</string>
+    <string name="no_data">No Data</string>
+    <string name="data">Data</string>
+</resources>
