@@ -4,7 +4,7 @@
     <string name="store">Store</string>
     <string name="insecure">In secure</string>
     <string name="secure">Secure</string>
-    <string name="enter_here">Enter here !</string>
+    <string name="enter_here">Enter your data here!</string>
     <string name="no_data">No Data</string>
     <string name="data">Data</string>
 </resources>
